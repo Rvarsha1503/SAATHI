@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:home_saathi/widgets/custom_card.dart';
-import 'screens/legal_literacy_page';
+import 'screens/legal_literacy_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
